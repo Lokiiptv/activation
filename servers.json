@@ -1,0 +1,31 @@
+{
+  "epg_url": "https://github.com/mitthu786/tvepg/raw/refs/heads/main/jiotv/epg.xml.gz",
+  "sources": [
+    {
+      "id": "server1",
+      "name": "Server 1",
+      "url": "https://jtvxweb.pages.dev/jstr4web.json",
+      "format": "server1",
+      "enabled": true,
+      "requires_activation": true,
+      "cookie_url": "https://allinonereborn2.online/jstrweb2/cookies.json",
+      "star_cookie_url": "https://allinonereborn2.online/jtv-fetch/jstarcookie/cookie.json"
+    },
+    {
+      "id": "server2",
+      "name": "Server 2",
+      "url": "https://pllive.bmera5952.workers.dev/",
+      "format": "auto",
+      "enabled": true,
+      "requires_activation": true
+    },
+    {
+      "id": "builtin-playlist",
+      "name": "Built-in Playlist",
+      "url": "https://jio.shoeblivesite.dpdns.org/",
+      "format": "auto",
+      "enabled": true,
+      "requires_activation": true
+    }
+  ]
+}
