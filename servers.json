@@ -29,6 +29,51 @@
       "enabled": true,
       "requires_activation": true,
       "user_agent": "OTT Navigator/1.6.7.4"
+    },
+    {
+      "id": "servertv1",
+      "name": "ServerTV1",
+      "url": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/bd-test.m3u",
+      "format": "auto",
+      "enabled": true,
+      "requires_activation": true,
+      "user_agent": "OTT Navigator/1.6.7.4"
+    },
+    {
+      "id": "servertv-jio-plus1",
+      "name": "ServerTV Jio Plus1",
+      "url": "https://servertvhub.site/jio1290/app/playlist.php?id=Jiotv+",
+      "format": "auto",
+      "enabled": true,
+      "requires_activation": true,
+      "user_agent": "OTT Navigator/1.6.7.4"
+    },
+    {
+      "id": "servertv-jio-plus2",
+      "name": "ServerTV Jiotv plus2",
+      "url": "https://servertvhub.site/jiotv+/playlist.php",
+      "format": "auto",
+      "enabled": true,
+      "requires_activation": true,
+      "user_agent": "OTT Navigator/1.6.7.4"
+    },
+    {
+      "id": "playify-jiotv-plus",
+      "name": "PlayiFy JioTV+",
+      "url": "https://playify.pages.dev/Jiotv.json",
+      "format": "auto",
+      "enabled": true,
+      "requires_activation": true,
+      "user_agent": "OTT Navigator/1.6.7.4"
+    },
+    {
+      "id": "servertv-sony",
+      "name": "ServerTV SONY",
+      "url": "https://servertvhub.site/sony/playlist.php",
+      "format": "auto",
+      "enabled": true,
+      "requires_activation": true,
+      "user_agent": "OTT Navigator/1.6.7.4"
     }
   ]
 }
