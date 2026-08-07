@@ -8,6 +8,7 @@
       "format": "server1",
       "enabled": true,
       "requires_activation": true,
+      "user_agent": "OTT Navigator/1.6.7.4",
       "cookie_url": "https://allinonereborn2.online/jstrweb2/cookies.json",
       "star_cookie_url": "https://allinonereborn2.online/jtv-fetch/jstarcookie/cookie.json"
     },
@@ -17,7 +18,8 @@
       "url": "https://pllive.bmera5952.workers.dev/",
       "format": "auto",
       "enabled": true,
-      "requires_activation": true
+      "requires_activation": true,
+      "user_agent": "OTT Navigator/1.6.7.4"
     },
     {
       "id": "builtin-playlist",
@@ -25,17 +27,8 @@
       "url": "https://jio.shoeblivesite.dpdns.org/",
       "format": "auto",
       "enabled": true,
-      "requires_activation": true
-    },
-
-{
-      "id": "builtin-playlist2",
-      "name": "Built-in Playlist 2",
-      "url": "https://raw.githubusercontent.com/amazeyourself/m3u/refs/heads/main/jtv.m3u",
-      "format": "auto",
-      "enabled": true,
-      "requires_activation": true
+      "requires_activation": true,
+      "user_agent": "OTT Navigator/1.6.7.4"
     }
-
   ]
 }
